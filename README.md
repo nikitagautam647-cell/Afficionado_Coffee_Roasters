@@ -94,6 +94,11 @@ For numeric tables and specific aggregates, place raw CSVs in `Data/` and I can 
 - `Presentation/` — slide decks and presentation assets
 - `Report/` — research paper and reports (includes `Research_Paper.md`)
 
+## External Publication
+
+- Research paper uploaded to Academia.edu: https://www.academia.edu/168539559/Sales_Patterns_and_Store_Level_Insights_for_Afficionado_Coffee_Roasters
+
+
 ## Contributing
 
 Contributions are welcome. Typical workflow:
